@@ -14,5 +14,5 @@ The workspace contains two folders by default, where:
 
 Showcase:
 
-![Project Screenshot](https://raw.githubusercontent.com/wthislifehuh/Resonate/main/assets/screenshot.png](https://github.com/wthislifehuh/HospitalManagementSystem/blob/main/src/resources/Main_Menu.jpg)
+![Project Screenshot]([https://raw.githubusercontent.com/wthislifehuh/Resonate/main/assets/screenshot.png](https://github.com/wthislifehuh/HospitalManagementSystem/blob/main/src/resources/Main_Menu.jpg](https://github.com/wthislifehuh/HospitalManagementSystem/blob/main/src/resources/Main_Menu.jpg?raw=true))
 
