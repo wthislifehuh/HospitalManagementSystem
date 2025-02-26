@@ -12,7 +12,9 @@ The workspace contains two folders by default, where:
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 
-Showcase:
+## Showcase:
 
 ![Project Screenshot](https://github.com/wthislifehuh/HospitalManagementSystem/blob/main/src/resources/Main_Menu.jpg?raw=true)
+
+![Project Screenshot](https://github.com/wthislifehuh/HospitalManagementSystem/blob/main/src/resources/Add_Info.jpg?raw=true)
 
